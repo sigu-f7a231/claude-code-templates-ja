@@ -1,0 +1,10 @@
+{
+  "name": "dev-workflow",
+  "version": "1.0.0",
+  "description": "工程別の開発ワークフロー(spec / plan-tasks / implement / test / review / commit / release)と、調査・テスト用サブエージェント",
+  "author": {
+    "name": "【作成者名】"
+  },
+  "license": "MIT",
+  "keywords": ["workflow", "skills", "review", "testing"]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "my-plugin",
+  "version": "1.0.0",
+  "description": "【このプラグインが提供するもの】",
+  "author": {
+    "name": "【作成者名】"
+  },
+  "license": "MIT",
+  "keywords": ["【キーワード】"]
+}

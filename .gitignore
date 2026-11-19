@@ -1,0 +1,8 @@
+# 個人の Claude Code 設定(ローカルの許可ルールなど)
+.claude/settings.local.json
+CLAUDE.local.md
+
+# OS・依存
+.DS_Store
+node_modules/
+!templates/CLAUDE.local.md
